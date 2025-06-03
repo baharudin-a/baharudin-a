@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hallo guys! Perkenalkan aku Anwar</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hallo guys! aku Anwar</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
@@ -6,7 +6,7 @@
 🏥 &nbsp;Asesor Kesiapan SIMRS & SIMKLINIK (Sistem Informasi Manajemen RS & Klinik)\
 🔧 &nbsp;Spesialis Asesmen Infrastruktur – Hardware, Software, dan Jaringan\
 🛠️ &nbsp;QC/QA Implementasi Sistem – Pendampingan Teknis RS/Klinik\
-📄 &nbsp;Silahkan kunjungi [Web Profile]([https://baharudin-a.github.io/]) untuk informasi selengkapnya tentang aku. I'm open to feedback and suggestions!
+📄 &nbsp;Silahkan kunjungi [Web Profile](https://baharudin-a.github.io/) untuk informasi selengkapnya tentang aku. I'm open to feedback and suggestions!
 
 <!--<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>-->
 
